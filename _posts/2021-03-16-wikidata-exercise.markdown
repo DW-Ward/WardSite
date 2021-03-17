@@ -11,7 +11,7 @@ fleet while some models were being re-purposed as aircraft carriers.  I struggle
 and I never really did.  I was able to produce a CSV file with a list of ships but they were tied to some catasprophic
 explosion I could not identify.
 
-I updated the "also known as" section of HMS Furiosu to include her nickname of Spurious.
-She was given this nickname because the purpose of her design and construction were a peipdream of Admiral Fisher,
-his Baltic scheme, for WWI.  After this lan fell apart, she had no purpose but was built anyway.
+I updated the "also known as" section of HMS Furious to include her nickname of Spurious.
+She was given this nickname because the purpose of her design and construction were a pipedream of Admiral Fisher,
+his Baltic scheme, for WWI.  After this plan fell apart, she had no purpose but was built anyway.
 Ironically, she is the only pre-war aircraft carrier to survive WWII.
