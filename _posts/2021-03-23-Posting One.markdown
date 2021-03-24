@@ -13,8 +13,8 @@ These are all in the repository and I am working on linking them to the website.
 
 The overall intent is to show how the major naval powers went from this:
 
-![image](/_site/assets/Images/dreadnought1.jfif
+![image](/assets/Images/dreadnought1.jfif
 
 to this:
 
-![image](/_site/assets/Images/CV.jfif
+![image](/assets/Images/CV.jfif
