@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Posting Exercise"
-date:   2021-03-23 20:27:28 -0400
+date:   2021-03-23 08:27:28 -0400
 categories: jekyll update
 ---
 
