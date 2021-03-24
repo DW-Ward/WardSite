@@ -27,7 +27,7 @@ twitter_username:
 github_username:  DW-Ward
 
 # Build settings
-theme: minima
+theme: squarezero
 plugins:
   - jekyll-feed
 
