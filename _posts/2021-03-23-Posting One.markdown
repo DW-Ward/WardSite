@@ -10,3 +10,11 @@ Each entry represents one issue of Proceedings in 1925 from July to December.
 I am working on pulling relevant articles from each issue as well.  Also included
 are the CSV files for my visualization of Fleet Speed comparisons.
 These are all in the repository and I am working on linking them to the website.
+
+The overall intent is to show how the major naval powers went from this:
+
+![HMS Dreadnought_1905](/users/grimd/WardSite/_site/assets/images/dreadnought1.jfif
+
+to this:
+
+![American carrier fleet 1944](/users/grimd/WardSite/_site/assets/images/CV.jfif
