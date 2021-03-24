@@ -13,8 +13,8 @@ These are all in the repository and I am working on linking them to the website.
 
 The overall intent is to show how the major naval powers went from this:
 
-![HMS Dreadnought_1905](/users/grimd/WardSite/_site/assets/images/dreadnought1.jfif
+![HMS Dreadnought_1905](/_site/assets/Images/dreadnought1.jfif
 
 to this:
 
-![American carrier fleet 1944](/users/grimd/WardSite/_site/assets/images/CV.jfif
+![American carrier fleet 1944](_site/assets/Images/CV.jfif
