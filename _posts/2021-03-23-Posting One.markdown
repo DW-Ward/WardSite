@@ -18,3 +18,6 @@ The overall intent is to show how the major naval powers went from this:
 to this:
 
 ![American carrier fleet 1944](/users/grimd/WardSite/_site/assets/Images/CV.jfif)
+
+
+[Fleet Speed Analysis](https://public.tableau.com/profile/david.ward5594#!/vizhome/Corpusv1/Sheet2?publish=yes)
