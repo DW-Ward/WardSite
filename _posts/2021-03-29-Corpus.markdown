@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Corpus"
+date:   2021-03-29 18:42:28 -0400
+categories: jekyll update
+---
+
+**Corpus Discussion June 1925**
+
+My original [corpus] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/1925%20Issue_Cleaned.txt) included six issues of the
+magazine Proceedings published by the United States Naval Institute.  By itself it was unworkable.  The June 1925 issue includes several
+articles that are of use.  The first [article] (https://voyant-tools.org/?corpus=8b3fcb180f589ff903a57d28e74dfe52) reveals some interesting
+word associations in the discussion of which ships were needed for the future.  In the era where the battleship was the dominat naval vessel,
+there is plenty of discussion of other vessels, notably aircraft carriers.  This is also the period between the Washington and London Naval 
+Treaties and the word associations revealed with this data indicates the major powers attempts to project naval power within these restrictive 
+treaty limits.
+
+Another portion titled [Professional Notes] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/1.4_PROFESSIONAL%20NOTES_Various)
+provides information on the analysis between the current British and American battle fleets.  The article provides information on the speed,
+caliber of guns, and range of these guns and argues that the American fleet could defeat the British fleet due to superior range. A careful
+[Fleet Speed Analysis](https://public.tableau.com/profile/david.ward5594#!/vizhome/Corpusv1/Sheet2?publish=yes) demonstrates that while a few
+American vessels did out-range the British ships, the British ships were generally faster than their American counterparts.  The American
+ships posessed a uniform speed but many British ships were significantly faster.  How many salvos from the longer ranged guns of the Americans could be brought 
+to bear before the British superior speed could close the gap is the operative question.
