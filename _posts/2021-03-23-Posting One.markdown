@@ -19,4 +19,4 @@ to this:
 
 ![American carrier fleet 1944](https://raw.githubusercontent.com/comp-methods-fsu-2021/Ward_Corpus/main/CV.png)
 
-[Fleet Speed Analysis](https://public.tableau.com/profile/david.ward5594#!/vizhome/Corpusv1/Sheet2?publish=yes)
+![Fleet Speed Analysis](https://raw.githubusercontent.com/comp-methods-fsu-2021/Ward_Corpus/main/ChartTab.PNG)
