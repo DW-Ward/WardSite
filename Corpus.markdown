@@ -1,3 +1,10 @@
+---
+layout: page
+title: Corpus
+permalink: /Corpus/
+---
+
+
 |Article Title                                      |Month |Author                                  |Page Count|Top Five Terms                                |Top Ship Class|Word Analysis URL                                                |Corpus URL                                                                                   |
 |---------------------------------------------------|------|----------------------------------------|----------|----------------------------------------------|--------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 |A Balanced Fleet for the United States             |Jul-25|CPT J. K. Taussig                       |25        |Fleet, Ships, Naval, Vessels, Navy            |Cruiser       |https://voyant-tools.org/?corpus=8b3fcb180f589ff903a57d28e74dfe52|https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/7_1.0_Battlefleet             |
