@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Corpus Mark II"
-date:   2021-06-06 18:15:12 -0400
+date:   2021-04-06 18:15:12 -0400
 categories: jekyll update
 ---
 Proceedings is the professional journal of the US Navy and is published by the US Naval Institute.  It is the repository for professional discussion from officer and enlisted perspectives
 and is wide ranging over a host of domestic and international security concerns in the maritime realm.  If a researcher is looking at how the US viewed themes involved with naval planning,
 construction, and combat and what the US knew about international maritime subjects this is a good place to start.
 
-[Corpus Metadata] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/Corpus_Article_List.csv)
+[Corpus Metadata](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/Corpus_Article_List.csv)
 
 **Corpus Discussion July 1925**
 
@@ -16,9 +16,9 @@ The July 1925 issue provides two important data points.  The first is an article
 and the second is the Professional Notes section which detail global naval concerns.  One aspect springing from the Professional Notes
 section was an analysis of fleet speeds and gun range between the American and British fleets.
 
-[July 1925 Issue] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/7_0_July_1925)
-[A Balanced Fleet article] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/7_1.0_Battlefleet)
-[Professional Notes] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/7_Professional-Notes)
+[July 1925 Issue](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/7_0_July_1925)
+[A Balanced Fleet article](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/7_1.0_Battlefleet)
+[Professional Notes](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/7_Professional-Notes)
 [Fleet Speed Analysis](https://public.tableau.com/profile/david.ward5594#!/vizhome/Corpusv1/Sheet2?publish=yes)
 
 **Corpus Discussion August 1925**
@@ -26,9 +26,9 @@ section was an analysis of fleet speeds and gun range between the American and B
 The August 1925 supplies a lengthy article on National Strategy from the US perspective.  The Professional Notes section again provides
 a global perspective for naval discussion.
 
-[August 1925 Issue] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/8_0_August_1925)
-[National Strategy] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/8_1.0_National%20Strategy)
-[Professional Notes] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/8_Professional-Notes)
+[August 1925 Issue](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/8_0_August_1925)
+[National Strategy](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/8_1.0_National%20Strategy)
+[Professional Notes](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/8_Professional-Notes)
 
 **Corpus Discussion Septemeber 1925**
 
@@ -36,9 +36,9 @@ The Septemeber 1925 includes a short articel on the largest ship to pass the Pan
 This discussion is interesting as the American design philosophy leading up to WWII was to not design a ship larger than the width of the Panama Canal locks, 108 feet.  The professional Notes
 section again provides data from an international perspective.
 
-[September 1925 Issue] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/9_0_September_1925)
-[Panama Canal's Biggest Ship] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/9_1.8_Panama-Canal)
-[Professional Notes] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/9_Professional-Notes)
+[September 1925 Issue](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/9_0_September_1925)
+[Panama Canal's Biggest Ship](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/9_1.8_Panama-Canal)
+[Professional Notes](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/9_Professional-Notes)
 
 **Corpus Discussion October 1925**
 
@@ -46,10 +46,10 @@ The October 1925 issues provides several articles.  The first is written by the 
 professional guidance from the head of the service tot he entire Navy.  As Proceedings is aprofessional journal the majority of the readers are professional officers but it is widely available to all
 ranks.  A second article is a short discussion of the treaty navies which were the result of the Washington Naval Treaty of 1922.  Again, the Professional Notes section is included for its wide-ranging topics.
 
-[October 1925 Issue] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/10_0_October_1925)
-[Elements of Sea Power and Future of the Navy] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/10_1.2_Elements-of-Seapower)
-[Comparitive Naval Data for Treaty Navies] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/10_1.6_Report-on-Treat--navies)
-[Professional Notes] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/10_Professional-Notes)
+[October 1925 Issue](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/10_0_October_1925)
+[Elements of Sea Power and Future of the Navy](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/10_1.2_Elements-of-Seapower)
+[Comparitive Naval Data for Treaty Navies](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/10_1.6_Report-on-Treat--navies)
+[Professional Notes](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/10_Professional-Notes)
 
 **Corpus Discussion November 1925**
 
@@ -57,9 +57,9 @@ The Novemeber 1925 possesses an important article detailing post treaty design t
 navasl construction agreed upon in 1922.  It is interesting that only three years after a restrivie naval treaty, US professional thought included discussions of what to do after the treaty expired - almost as
 if the US was not expecting the treaty to be extended.  As standard, the Professional Notes section is included for a wider perspective.
 
-[Novemeber 1925 Issue] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/11_0_November_1925)
-[Post Treaty Naval Design] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/11_1.7_Treaty-Design)
-[Professioanl Notes] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/11_Professional-Notes)
+[Novemeber 1925 Issue](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/11_0_November_1925)
+[Post Treaty Naval Design](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/11_1.7_Treaty-Design)
+[Professioanl Notes](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/11_Professional-Notes)
 
 **Corpus Discussion December 1925**
 
@@ -68,9 +68,9 @@ many months spent at sea while conducting operations.  The revolving fleet comma
 would conduct planning for the next large operation.  As always, the Professional Notes section is included for a more comprehensive take on global naval issues.  The December issue shows a larger amount of content
 in this section than previously.
 
-[December 1925 Issue] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/12_0_December_1925)
-[War Staff Idea Afloat] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/12_1.9_War-Staff-Afloat)
-[Professional Notes] (https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/12_Professional-Notes)
+[December 1925 Issue](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/12_0_December_1925)
+[War Staff Idea Afloat](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/12_1.9_War-Staff-Afloat)
+[Professional Notes](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/12_Professional-Notes)
 
 **Notes to Semester progress**
 
