@@ -13,10 +13,10 @@ These are all in the repository and I am working on linking them to the website.
 
 The overall intent is to show how the major naval powers went from this:
 
-![HMS Dreadnought](https://raw.githubusercontent.com/comp-methods-fsu-2021/Ward_Corpus/main/Dreadnought1.png "HMS Dreadnought")
+![HMS Dreadnought](https://raw.githubusercontent.com/comp-methods-fsu-2021/Ward_Corpus/main/Dreadnought1.png "HMS Dreadnought" )
 
 to this:
 
-![American carrier fleet 1944](https://raw.githubusercontent.com/comp-methods-fsu-2021/Ward_Corpus/main/CV.png "US Fast carrier Task Force 1944")
+![American carrier fleet 1944](https://raw.githubusercontent.com/comp-methods-fsu-2021/Ward_Corpus/main/CV.png "US Fast carrier Task Force 1944" )
 
-![Fleet Speed Analysis](https://raw.githubusercontent.com/comp-methods-fsu-2021/Ward_Corpus/main/ChartTab.PNG "Fleet Speed Analysis")
+![Fleet Speed Analysis](https://raw.githubusercontent.com/comp-methods-fsu-2021/Ward_Corpus/main/ChartTab.PNG "Fleet Speed Analysis" )
