@@ -30,7 +30,9 @@ The August 1925 supplies a lengthy article on National Strategy from the US pers
 a global perspective for naval discussion.
 
 [August 1925 Issue](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/8_0_August_1925)
+
 [National Strategy](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/8_1.0_National%20Strategy)
+
 [Professional Notes](https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/8_Professional-Notes)
 
 **Corpus Discussion Septemeber 1925**
