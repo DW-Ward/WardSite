@@ -1,4 +1,173 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="localhost:4000/WardSite/feed.xml" rel="self" type="application/atom+xml" /><link href="localhost:4000/WardSite/" rel="alternate" type="text/html" /><updated>2021-03-16T17:20:55-04:00</updated><id>localhost:4000/WardSite/feed.xml</id><title type="html">Ward Research LLC</title><subtitle>A site for my research which I am certain I am doing wrong.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="localhost:4000/WardSite/jekyll/update/2021/03/16/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-03-16T12:27:28-04:00</published><updated>2021-03-16T12:27:28-04:00</updated><id>localhost:4000/WardSite/jekyll/update/2021/03/16/welcome-to-jekyll</id><content type="html" xml:base="localhost:4000/WardSite/jekyll/update/2021/03/16/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="localhost:4000/WardSite/feed.xml" rel="self" type="application/atom+xml" /><link href="localhost:4000/WardSite/" rel="alternate" type="text/html" /><updated>2021-04-07T11:10:51-04:00</updated><id>localhost:4000/WardSite/feed.xml</id><title type="html">Ward Research LLC</title><subtitle>A site for my research which I am certain I am doing wrong.</subtitle><entry><title type="html">Corpus Mark II</title><link href="localhost:4000/WardSite/jekyll/update/2021/04/06/Corpus-Mark-II.html" rel="alternate" type="text/html" title="Corpus Mark II" /><published>2021-04-06T18:15:12-04:00</published><updated>2021-04-06T18:15:12-04:00</updated><id>localhost:4000/WardSite/jekyll/update/2021/04/06/Corpus%20Mark%20II</id><content type="html" xml:base="localhost:4000/WardSite/jekyll/update/2021/04/06/Corpus-Mark-II.html">&lt;p&gt;Proceedings is the professional journal of the US Navy and is published by the US Naval Institute.  It is the repository for professional discussion from officer and enlisted perspectives
+and is wide ranging over a host of domestic and international security concerns in the maritime realm.  If a researcher is looking at how the US viewed themes involved with naval planning,
+construction, and combat and what the US knew about international maritime subjects this is a good place to start.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/Corpus_Article_List.csv&quot;&gt;Corpus Metadata&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Corpus Discussion July 1925&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The July 1925 issue provides two important data points.  The first is an article discussing the organizational design of a future US fleet
+and the second is the Professional Notes section which detail global naval concerns.  One aspect springing from the Professional Notes
+section was an analysis of fleet speeds and gun range between the American and British fleets.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/7_0_July_1925&quot;&gt;July 1925 Issue&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/7_1.0_Battlefleet&quot;&gt;A Balanced Fleet article&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/7_Professional-Notes&quot;&gt;Professional Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://public.tableau.com/profile/david.ward5594#!/vizhome/Corpusv1/Sheet2?publish=yes&quot;&gt;Fleet Speed Analysis&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Corpus Discussion August 1925&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The August 1925 supplies a lengthy article on National Strategy from the US perspective.  The Professional Notes section again provides
+a global perspective for naval discussion.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/8_0_August_1925&quot;&gt;August 1925 Issue&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/8_1.0_National%20Strategy&quot;&gt;National Strategy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/8_Professional-Notes&quot;&gt;Professional Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Corpus Discussion Septemeber 1925&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Septemeber 1925 includes a short articel on the largest ship to pass the Panama Canal in 1925.  This vessel was the HMS Hood, a British battlecruiser and the largest warship at that time.
+This discussion is interesting as the American design philosophy leading up to WWII was to not design a ship larger than the width of the Panama Canal locks, 108 feet.  The professional Notes
+section again provides data from an international perspective.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/9_0_September_1925&quot;&gt;September 1925 Issue&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/9_1.8_Panama-Canal&quot;&gt;Panama Canal’s Biggest Ship&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/9_Professional-Notes&quot;&gt;Professional Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Corpus Discussion October 1925&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The October 1925 issues provides several articles.  The first is written by the Chief of Naval Operations, ADM Eberle, and discusses the future of the Navy.  This is interesting in that it gives
+professional guidance from the head of the service tot he entire Navy.  As Proceedings is aprofessional journal the majority of the readers are professional officers but it is widely available to all
+ranks.  A second article is a short discussion of the treaty navies which were the result of the Washington Naval Treaty of 1922.  Again, the Professional Notes section is included for its wide-ranging topics.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/10_0_October_1925&quot;&gt;October 1925 Issue&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/10_1.2_Elements-of-Seapower&quot;&gt;Elements of Sea Power and Future of the Navy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/10_1.6_Report-on-Treat--navies&quot;&gt;Comparitive Naval Data for Treaty Navies&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/10_Professional-Notes&quot;&gt;Professional Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Corpus Discussion November 1925&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Novemeber 1925 possesses an important article detailing post treaty design theories.  The 1922 Washington Naval Treaty was followed by the 1930 London naval Treaty extending many of the limitations on
+navasl construction agreed upon in 1922.  It is interesting that only three years after a restrivie naval treaty, US professional thought included discussions of what to do after the treaty expired - almost as
+if the US was not expecting the treaty to be extended.  As standard, the Professional Notes section is included for a wider perspective.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/11_0_November_1925&quot;&gt;Novemeber 1925 Issue&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/11_1.7_Treaty-Design&quot;&gt;Post Treaty Naval Design&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/11_Professional-Notes&quot;&gt;Professioanl Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Corpus Discussion December 1925&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;December brings a discussion of naval staff operations while the fleet is at sea.  Some intitial discussion of how the staff would operate afloat is important due to the way the US Navy operated in WWII with
+many months spent at sea while conducting operations.  The revolving fleet command technique that the US employed meant one staff element afloat would coordinate current operations while a sister staff element ashore
+would conduct planning for the next large operation.  As always, the Professional Notes section is included for a more comprehensive take on global naval issues.  The December issue shows a larger amount of content
+in this section than previously.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/12_0_December_1925&quot;&gt;December 1925 Issue&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/12_1.9_War-Staff-Afloat&quot;&gt;War Staff Idea Afloat&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/12_Professional-Notes&quot;&gt;Professional Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Word Association Exercise&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the most consistently useful tool this class has shown me is Voyant.  The information I have been able to derive so far is relatively unsophisticated and consists mainly of most mentioned terms.  This is somewhat problematic
+as many naval vessel terms can be written a variety of ways and frequently include two terms such as aircraft carrier, battle ship, battle cruiser, etc.  For this exercise, I took each separate article and washed them through
+Voyant with a main object to discover the most mentioned ship class.  I was expecting to find battleship, battlecruiser, and aircraft carriers as being the most mentioned terms due to the period in naval desing and construction.
+The most consistent ship class mentioned, however, was the cruiser class.  As a middle weight, universal ship class I suppose I should have expected that, especially with the ten year hiatus in battleship
+construction mandated by teh Washington Naval Treaty.  As the next largest ship type, cruisers became an important negotiating tool.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://voyant-tools.org/?corpus=8b3fcb180f589ff903a57d28e74dfe52&quot;&gt;A Balanced Fleet for the United States&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://voyant-tools.org/?corpus=f7ca096904fafe6b861b776c41018954&quot;&gt;July Professional Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://voyant-tools.org/?corpus=a49339d8109450258928357c2da86557&quot;&gt;National Strategy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://voyant-tools.org/?corpus=91a8a7d843a9cc947d712404d297b9f7&quot;&gt;August Professional Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://voyant-tools.org/?corpus=6cedd9bafe87e20aaccab11445dd9bf2&quot;&gt;The Panama Canal’s Biggest Ship&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://voyant-tools.org/?corpus=99746ded233b7944ff76677ecdb08246&quot;&gt;September Professioanl Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://voyant-tools.org/?corpus=680af977887635adde83e8148fbe0fa2&quot;&gt;The Elements of Seapower and the Future of the Navy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://voyant-tools.org/?corpus=879ba3ad235c412c965cbb24c771201f&quot;&gt;Comparative Naval Data for the Treaty Navies&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://voyant-tools.org/?corpus=9082cf248d672ed83ff4fcc4d1fd4ce2&quot;&gt;October Professional Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://voyant-tools.org/?corpus=5d2bd6767f0de69ba541a72108d7625d&quot;&gt;Post Treaty Naval Design&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://voyant-tools.org/?corpus=77f5a014a34881a20a178ff579191a4a&quot;&gt;November Professional Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://voyant-tools.org/?corpus=413679bece036d105444f6e47fa1df25&quot;&gt;The War Staff Idea Afloat&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://voyant-tools.org/?corpus=80e8267aba3430d59a89671283ea44a5&quot;&gt;December Professional Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Notes to Semester progress&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A large portion of progress on this project has come late in the semester.  If anyone follows these links they will quickly discern that I have completed zero cleaning of these docuements.  I don’t understand the process 
+and have been unwilling to devote the time to learn.  On one hand, I can read the text as is and I can ignore the junk in the way.  On the other hand, I struggle with the idea that anything
+can be computed in this manner.  I try really hard to not be the oldtimer who can not assimilate knew technology and methods but I can clean faster by hand than I can with Regular Expressions
+and it appears to be just extra work to discover the right way to do it.  I try to learn new tricks but apparently this old dog is not as progressive as I thought.&lt;/p&gt;
+
+&lt;p&gt;By dividing the corpus that I have into smaller and smaller chunks, I have been able to identify a great deal more data that is useful.  Several of the above listed articles include tables that
+can be easily made into CSV files for more detailed analysis.  My lack of ability in Regular Expression has nullified some of this new information.  I remain concentrated on what I have been able to produce
+and not seek new information.&lt;/p&gt;
+
+&lt;p&gt;The website has been a constant issue.  I have been able to progress to a certain level but not beyond.  zi would prefer to present my data in a more visual way but to no avail as yet.  Naval history provides many
+opportuntities for sweeping images that illustrate the majesty of the sea and the enormity of naval vessels but they remain a mystery to the viewers of my site as of yet.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Proceedings is the professional journal of the US Navy and is published by the US Naval Institute. It is the repository for professional discussion from officer and enlisted perspectives and is wide ranging over a host of domestic and international security concerns in the maritime realm. If a researcher is looking at how the US viewed themes involved with naval planning, construction, and combat and what the US knew about international maritime subjects this is a good place to start.</summary></entry><entry><title type="html">Corpus</title><link href="localhost:4000/WardSite/jekyll/update/2021/03/29/Corpus.html" rel="alternate" type="text/html" title="Corpus" /><published>2021-03-29T18:42:28-04:00</published><updated>2021-03-29T18:42:28-04:00</updated><id>localhost:4000/WardSite/jekyll/update/2021/03/29/Corpus</id><content type="html" xml:base="localhost:4000/WardSite/jekyll/update/2021/03/29/Corpus.html">&lt;p&gt;&lt;strong&gt;Corpus Discussion June 1925&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My original &lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/1925%20Issue_Cleaned.txt&quot;&gt;corpus&lt;/a&gt; included six issues of the
+magazine Proceedings published by the United States Naval Institute.  By itself it was unworkable.  The June 1925 issue includes several
+articles that are of use.  The first &lt;a href=&quot;https://voyant-tools.org/?corpus=8b3fcb180f589ff903a57d28e74dfe52&quot;&gt;article&lt;/a&gt; reveals some interesting
+word associations in the discussion of which ships were needed for the future.  In the era where the battleship was the dominat naval vessel,
+there is plenty of discussion of other vessels, notably aircraft carriers.  This is also the period between the Washington and London Naval 
+Treaties and the word associations revealed with this data indicates the major powers attempts to project naval power within these restrictive 
+treaty limits.&lt;/p&gt;
+
+&lt;p&gt;Another portion titled &lt;a href=&quot;https://github.com/comp-methods-fsu-2021/Ward_Corpus/blob/main/1.4_PROFESSIONAL%20NOTES_Various&quot;&gt;Professional Notes&lt;/a&gt;
+provides information on the analysis between the current British and American battle fleets.  The article provides information on the speed,
+caliber of guns, and range of these guns and argues that the American fleet could defeat the British fleet due to superior range. A careful
+&lt;a href=&quot;https://public.tableau.com/profile/david.ward5594#!/vizhome/Corpusv1/Sheet2?publish=yes&quot;&gt;Fleet Speed Analysis&lt;/a&gt; demonstrates that while a few
+American vessels did out-range the British ships, the British ships were generally faster than their American counterparts.  The American
+ships posessed a uniform speed but many British ships were significantly faster.  How many salvos from the longer ranged guns of the Americans could be brought 
+to bear before the British superior speed could close the gap is the operative question.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Corpus Discussion June 1925</summary></entry><entry><title type="html">Posting Exercise</title><link href="localhost:4000/WardSite/jekyll/update/2021/03/23/Posting-One.html" rel="alternate" type="text/html" title="Posting Exercise" /><published>2021-03-23T08:27:28-04:00</published><updated>2021-03-23T08:27:28-04:00</updated><id>localhost:4000/WardSite/jekyll/update/2021/03/23/Posting%20One</id><content type="html" xml:base="localhost:4000/WardSite/jekyll/update/2021/03/23/Posting-One.html">&lt;p&gt;I have sub-divided my text files from the original into six smaller entries.
+Each entry represents one issue of Proceedings in 1925 from July to December.
+I am working on pulling relevant articles from each issue as well.  Also included
+are the CSV files for my visualization of Fleet Speed comparisons.
+These are all in the repository and I am working on linking them to the website.&lt;/p&gt;
+
+&lt;p&gt;The overall intent is to show how the major naval powers went from this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/comp-methods-fsu-2021/Ward_Corpus/main/Dreadnought1.png&quot; alt=&quot;HMS Dreadnought&quot; title=&quot;HMS Dreadnought&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;to this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/comp-methods-fsu-2021/Ward_Corpus/main/CV.png&quot; alt=&quot;American carrier fleet 1944&quot; title=&quot;US Fast carrier Task Force 1944&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Fleet Speed Analysis 1925&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/comp-methods-fsu-2021/Ward_Corpus/main/ChartTab.PNG&quot; alt=&quot;Fleet Speed Analysis&quot; title=&quot;Fleet Speed Analysis&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">I have sub-divided my text files from the original into six smaller entries. Each entry represents one issue of Proceedings in 1925 from July to December. I am working on pulling relevant articles from each issue as well. Also included are the CSV files for my visualization of Fleet Speed comparisons. These are all in the repository and I am working on linking them to the website.</summary></entry><entry><title type="html">Computational Methods Update</title><link href="localhost:4000/WardSite/jekyll/update/2021/03/16/computational-methods-update.html" rel="alternate" type="text/html" title="Computational Methods Update" /><published>2021-03-16T12:27:28-04:00</published><updated>2021-03-16T12:27:28-04:00</updated><id>localhost:4000/WardSite/jekyll/update/2021/03/16/computational-methods-update</id><content type="html" xml:base="localhost:4000/WardSite/jekyll/update/2021/03/16/computational-methods-update.html">&lt;p&gt;I think I might be finally figuring this out.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">I think I might be finally figuring this out.</summary></entry><entry><title type="html">WikiData Exercise</title><link href="localhost:4000/WardSite/jekyll/update/2021/03/16/wikidata-exercise.html" rel="alternate" type="text/html" title="WikiData Exercise" /><published>2021-03-16T12:27:28-04:00</published><updated>2021-03-16T12:27:28-04:00</updated><id>localhost:4000/WardSite/jekyll/update/2021/03/16/wikidata-exercise</id><content type="html" xml:base="localhost:4000/WardSite/jekyll/update/2021/03/16/wikidata-exercise.html">&lt;p&gt;I queried, in various ways, about British battlecruisers in the intra-war period.  I was trying to find some data
+that investigated how British battlecruisers were used to further the argument for a powerful surface
+fleet while some models were being re-purposed as aircraft carriers.  I struggled to find the right criteria
+and I never really did.  I was able to produce a CSV file with a list of ships but they were tied to some catasprophic
+explosion I could not identify.&lt;/p&gt;
+
+&lt;p&gt;I updated the “also known as” section of HMS Furious to include her nickname of Spurious.
+She was given this nickname because the purpose of her design and construction were a pipedream of Admiral Fisher,
+his Baltic scheme, for WWI.  After this plan fell apart, she had no purpose but was built anyway.
+Ironically, she is the only pre-war aircraft carrier to survive WWII.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">I queried, in various ways, about British battlecruisers in the intra-war period. I was trying to find some data that investigated how British battlecruisers were used to further the argument for a powerful surface fleet while some models were being re-purposed as aircraft carriers. I struggled to find the right criteria and I never really did. I was able to produce a CSV file with a list of ships but they were tied to some catasprophic explosion I could not identify.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="localhost:4000/WardSite/jekyll/update/2021/03/16/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-03-16T12:27:28-04:00</published><updated>2021-03-16T12:27:28-04:00</updated><id>localhost:4000/WardSite/jekyll/update/2021/03/16/welcome-to-jekyll</id><content type="html" xml:base="localhost:4000/WardSite/jekyll/update/2021/03/16/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
@@ -14,4 +183,4 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Computational Methods Update</title><link href="localhost:4000/WardSite/jekyll/update/2021/03/16/computational-methods-update.html" rel="alternate" type="text/html" title="Computational Methods Update" /><published>2021-03-16T12:27:28-04:00</published><updated>2021-03-16T12:27:28-04:00</updated><id>localhost:4000/WardSite/jekyll/update/2021/03/16/computational-methods-update</id><content type="html" xml:base="localhost:4000/WardSite/jekyll/update/2021/03/16/computational-methods-update.html">&lt;p&gt;I think I might be finally figuring this out.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">I think I might be finally figuring this out.</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
