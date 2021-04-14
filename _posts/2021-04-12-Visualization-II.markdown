@@ -17,9 +17,11 @@ especially when compared against the un-modernized vessels of America and Britai
 
 The cruiser numbers are much more interesting and reflect what we have learned through simple word association through Voyant.  Cruiser discussions were a key element in the capital ship building
 holiday of the 1920s and reflect the different design philosphies of these three countries.  America and Japan were buidling cruisers of a similiar design which were individually larger and more capabel but overall of lesser numerbers.
-Britain needed larger numbers of these vessels but were individually less capable.  The bare numbers indicate Britain possessed a huge advantage in this vessel class but this does not tell the whole story.  
+Britain needed larger numbers of these vessels but were individually less capable.  The bare numbers indicate Britain possessed a huge advantage in this vessel class but this does not tell the whole story.
 
-[Fleet Size Comparison](https://raw.githubusercontent.com/comp-methods-fsu-2021/Ward_Corpus/main/Fleet_Size_Comparison.PNG)
+![Fleet Size Comparison](https://raw.githubusercontent.com/comp-methods-fsu-2021/Ward_Corpus/main/Fleet_Size_Comparison.PNG)
+
+
 
 
 
