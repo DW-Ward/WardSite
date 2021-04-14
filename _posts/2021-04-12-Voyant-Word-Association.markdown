@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Corpus Mark II"
+title:  "Voyant Word Association Exercise"
 date:   2021-04-06 18:15:12 -0400
 categories: jekyll update
 ---
